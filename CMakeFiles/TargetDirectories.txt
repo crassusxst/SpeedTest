@@ -1,0 +1,7 @@
+/Users/Crassus/Desktop/project/YST/WebRTCSource/CPPspeedtest/CMakeFiles/install/local.dir
+/Users/Crassus/Desktop/project/YST/WebRTCSource/CPPspeedtest/CMakeFiles/install/strip.dir
+/Users/Crassus/Desktop/project/YST/WebRTCSource/CPPspeedtest/CMakeFiles/install.dir
+/Users/Crassus/Desktop/project/YST/WebRTCSource/CPPspeedtest/CMakeFiles/list_install_components.dir
+/Users/Crassus/Desktop/project/YST/WebRTCSource/CPPspeedtest/CMakeFiles/rebuild_cache.dir
+/Users/Crassus/Desktop/project/YST/WebRTCSource/CPPspeedtest/CMakeFiles/edit_cache.dir
+/Users/Crassus/Desktop/project/YST/WebRTCSource/CPPspeedtest/CMakeFiles/SpeedTest.dir
